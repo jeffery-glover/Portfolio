@@ -1,0 +1,55 @@
+body {
+    font-family: "Lato", sans-serif;
+    color: #747704;
+    font-weight: 300;
+}
+
+#logo {
+    margin-top: 20px;
+}
+
+#big-picture {
+    background-size: cover;
+    width: 1170px;
+    height: auto;
+}
+
+/*Fonts*/
+
+.title-font {
+    font-size: 64px;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.muted-text {
+    color: #bcbbbb;
+}
+
+/*seperators*/
+
+#hr-2 {
+    margin-bottom: 10px;
+}
+
+#hr-3 {
+    margin-top: 0px;
+}
+
+/*Projects at bottom of page*/
+
+#projects {
+    margin-top: 0;
+}
+
+.performance-link {
+    padding-bottom: 20px;
+}
+
+.description {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 3;
+}
